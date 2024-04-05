@@ -1,0 +1,86 @@
+img{
+    border-radius: 50%; 
+    margin-left: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10px 5px 19px 5px;
+}
+img:hover{
+    cursor: grab
+}
+.image{
+    
+    width: 200px;
+    height: 200px
+}
+.image1{
+    width: 200px;
+    height: 200px
+}
+.image2{
+    width: 200px;
+    height: 200px
+}
+.image3{
+    width: 200px;
+    height: 200px
+}
+.image4{
+    width: 200px;
+    height: 200px
+}
+.premier:hover
+{
+    color:red;
+    cursor:grab;
+    font: size 3rem;
+    border: :30px;
+
+}
+    
+.premier{
+    text-align: center;
+    color: blue;
+    font-size: 120px;
+    font-weight: 100;
+
+}
+.deux
+{
+    margin-left: 20px; 
+    color: green;
+    font-size: 70px;
+    font-weight: 100; 
+}
+.troi{
+    text-align: end; 
+    color: green;
+    font-size: 70px;
+    font-weight: 100;
+}
+
+span
+{
+    color: blueviolet;
+    font-size: 3rem;
+    font-weight: 100;
+}
+
+p{
+    padding: 10px 16px 20px 50px ;
+    color: yellowgreen;
+    font-size: 120px;
+    font-weight: 100;
+}
+
+audio{
+    color: brown;
+    font-size: 120px;
+    font-weight: 100;
+    opacity: 80%;
+}
+
+ul{
+    font-size: 60px;
+    text-decoration: none;
+    list-style: none;
+}
